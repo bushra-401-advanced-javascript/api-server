@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "name": "menswear",
+      "display_name": "men",
+      "description": "men clothes",
+      "_id": 1
+    },
+    {
+      "name": "womenswear",
+      "display_name": "women",
+      "description": "women clothes",
+      "_id": 2
+    },
+    {
+      "name": "kidswear",
+      "display_name": "kids",
+      "description": "kids clothes",
+      "_id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "men suit",
+      "display_name": "suit",
+      "description": "formal clothes",
+      "category": "menswear",
+      "_id": 1
+    },
+    {
+      "name": "women dress",
+      "display_name": "dress",
+      "description": "party clothes - formal clothes",
+      "category": "womenswear",
+      "_id": 2
+    }
+  ]
+}
